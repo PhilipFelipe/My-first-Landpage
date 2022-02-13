@@ -13,7 +13,7 @@ const GlobalStyle = createGlobalStyle`
 
     body {
         background-color: #F8FDFF;
-        font-family: font-family: 'Poppins', sans-serif;
+        font-family: 'Poppins', sans-serif;
     }
 
     button {
